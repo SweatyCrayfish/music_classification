@@ -37,9 +37,7 @@ Data exploration is performed to understand the distribution and characteristics
 
 Features are extracted from the music files using Fourier Transforms and other techniques.
 
-\[
-\text{Feature Vector} = \text{FFT}(\text{Audio Signal})
-\]
+Feature Vector = FFT(Audio Signal)
 
 ## Model Building
 
